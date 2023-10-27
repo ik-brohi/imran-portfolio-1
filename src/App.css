@@ -11736,3 +11736,12 @@ html {
         left: -2vw;
     }
 }
+.profile-img{
+    height: 30rem!important;
+    width: 30rem;
+    margin-bottom: 2rem;
+    border-radius: 50px;
+}
+.hand-pic{
+    height: 30rem!important;
+}
